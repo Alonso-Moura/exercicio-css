@@ -1,2 +1,2 @@
 # exercicio-css
-Repositório do exercicio-css
+Repositório do exercicio-css 😁
